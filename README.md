@@ -2,15 +2,11 @@
 
 ###
 
-<h6 align="left">- Estou cursando Ciencia da computação 5/8</h6>
+<h6 align="left">- 🧑‍💻Estou cursando Ciencia da computação 5/8 <br>- Certificados cisco <br>-Conceito basico de rede<br>-Segurança endpoint<br>-Defesa de rede<br>-técnico de informatica por 4 anos</h6>
 
 ###
 
-<p align="left">Me chamo Carlos Eduardo Franco Gabriel<br>⭐ Tenho 20 anos<br>🔧 Técnico de informática<br>💻 Estou cursando Ciências da Computação (5/8)</p>
-
-###
-
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=MiguelPalmieri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelPalmieri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -53,6 +49,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelPalmieri/MiguelPalmieri/output/pacman-contribution-graph-dark.svg">
