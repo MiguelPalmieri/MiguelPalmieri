@@ -1,4 +1,12 @@
-<h2 align="center">Olá sou  o  Miguel Palmieri</h2>
+<h2 align="left">Olá me chamo Miguel Palmieri</h2>
+
+###
+
+<h6 align="left">- Estou cursando Ciencia da computação 5/8</h6>
+
+###
+
+<p align="left">Me chamo Carlos Eduardo Franco Gabriel<br>⭐ Tenho 20 anos<br>🔧 Técnico de informática<br>💻 Estou cursando Ciências da Computação (5/8)</p>
 
 ###
 
@@ -29,6 +37,12 @@
 
 ###
 
+<div align="right">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjB2Mmp0azU4N2t6Ync3bnU3dDRrYXRyM2tvcmQwdmg1OWxuNTNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlR0QdwsJUDdK/giphy.gif"  />
+</div>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/miguel-souza-246532362/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -36,12 +50,6 @@
   <a href="https://steamcommunity.com/profiles/76561199060574035/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=steam&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-</div>
-
-###
-
-<div align="right">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjB2Mmp0azU4N2t6Ync3bnU3dDRrYXRyM2tvcmQwdmg1OWxuNTNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlR0QdwsJUDdK/giphy.gif"  />
 </div>
 
 ###
